@@ -6,8 +6,6 @@
 
 - Normalement la base est entièrement débug | Si tu as un problème avec la Base DM Moi :  MrOxygen™#3250
 
-- Mon Nouveau Compte Discord si tu as des problèmes avec la base ? : MrOxygen™#3250
-
 - Il faudras juste vider quelques tables dans le SQL | Personnellement j'avais la flemme 
 
 - Bref j'espère que vous en ferait bon usage !
