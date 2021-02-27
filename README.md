@@ -9,3 +9,7 @@
 - Il faudras juste vider quelques tables dans le SQL | Personnellement j'avais la flemme 
 
 - Bref j'espère que vous en ferait bon usage !
+
+- Lien MEGA :  https://mega.nz/file/qs52mAjT
+
+- Clès de Déchiffrement  : NzLHBT3jpinRlZJ2KSqinERwGvPYN3Gs32s5W4WJgdw
